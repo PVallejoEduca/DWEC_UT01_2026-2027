@@ -4,7 +4,7 @@
 
 JavaScript es un lenguaje rico en operadores, símbolos y palabras que realizan operaciones sobre uno o varios valores, para obtener un nuevo valor.
 
-Cualquier valor sobre el cuál se realiza una acción (indicada por el operador), se denomina un **operando**. Una expresión puede contener un operando y un operador (denominado operador **unario**), como por ejemplo en `b++`, o bien dos operandos, separados por un operador (denominado operador **binario**), como por ejemplo en `a + b`. Incluso exsite algún operador **ternario**, como luego veremos.
+Cualquier valor sobre el cuál se realiza una acción (indicada por el operador), se denomina un **operando**. Una expresión puede contener un operando y un operador (denominado operador **unario**), como por ejemplo en `b++`, o bien dos operandos, separados por un operador (denominado operador **binario**), como por ejemplo en `a + b`. Incluso exsite algún operador **ternario**, como luego verás.
 
 ### Operadores aritmeticos
 Conocemos a muchos operadores de la escuela. Son cosas como suma `+`, multiplicación `*`, resta `-`, etc. Se admiten las siguientes operaciones matemáticas:

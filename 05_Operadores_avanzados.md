@@ -4,7 +4,7 @@
 
 Hemos visto una serie de operadores básicos en Javascript, donde explicamos, entre otros, operadores aritméticos, de asignación, unarios, operadores de comparación y operadores binarios. Como puedes ver, en general, para trabajar con valores numéricos.
 
-Ahora vamos a seguir con los operadores de Javascript, pero entrando en temas un poco más avanzados, y quizás menos intuitivos y más complejos:
+Ahora vas a seguir con los operadores de Javascript, pero entrando en temas un poco más avanzados, y quizás menos intuitivos y más complejos:
 
 * Operadores de `Strings`: Operaciones con variables y/o `strings`
 * Operadores `lógicos`: Como trabajar con valores `boolean` o similares
@@ -33,7 +33,7 @@ Ejemplo       Resultado                       Explicación
 
 Observa que salvo en el primer caso (donde tenemos dos `number`), el operador `+` funciona como un concatenador, es decir, uniendo los dos `string`, y en el caso que uno de ellos no lo sea, lo convierte.
 
-Esto puede complicarse aún más si vamos usando operandos con diferentes **tipos de datos**, pero veremos eso un poco más adelante. Esto ocurre porque Javascript realiza lo que se llama un proceso de conversión implícita donde traduce los tipos de datos al que considera más oportuno. Muchas veces podrás encontrarla mencionada como Coerción.
+Esto puede complicarse aún más si vamos usando operandos con diferentes **tipos de datos**, pero verás eso un poco más adelante. Esto ocurre porque Javascript realiza lo que se llama un proceso de conversión implícita donde traduce los tipos de datos al que considera más oportuno. Muchas veces podrás encontrarla mencionada como Coerción.
 
 ### Operador suma unaria
 Anteriormente, ya habíamos hablado del operador de **resta unaria** (negación) que sirve para cambiar de signo a un número. Sin embargo, también tenemos un operador de **suma unaria** que hace justo lo contrario: mantener positivo un número.

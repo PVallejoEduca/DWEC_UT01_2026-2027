@@ -18,7 +18,7 @@ if (year == 2015) {
 }
 ```
 
-Se recomienda envolver su bloque de código con llaves `{}` cada vez que se usa una declaración `if`, incluso si solo hay una linea para ejecutar, mejora la legibilidad.
+Te recomiendo envolver el bloque de código con llaves `{}` cada vez que se usa una declaración `if`, incluso si solo hay una linea para ejecutar, mejora la legibilidad.
 
 ### Conversión booleana
 

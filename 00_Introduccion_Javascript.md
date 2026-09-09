@@ -120,7 +120,7 @@ La especificación *ECMA-262* contiene la información más profunda, detallada 
 
 Cada año se lanza una nueva versión de la especificación. Entre estas versiones, el último borrador de especificaciones se puede encuentrar en el siguiente [enlace](https://tc39.es/ecma262/). Para leer sobre las nuevas funciones de última generación, incluidas aquellas que son denomidas "casi estándar", consulte las propuestas en el siguiente [enlace](https://github.com/tc39/proposals).
 
-Hay muchos usuarios con blogs donde analizan y explican con ejemplo la novedades que vienen con cada versión de ESMAScript. Aqui os dejo unas entradas explicando algunas de la cosas que aprenderemos a utilizar durante este curso. [Articulo 1](https://www.campusmvp.es/recursos/post/ecmascript-2025-todas-las-novedades-y-aplicaciones-practicas-para-impulsar-tu-codigo-javascript.aspx?srsltid=AfmBOopmwGGyMpIFgFa48-H8AJdk8k6h2K1lswkUKkaIZiX08r_1a6BM) y [Articulo 2](https://www.itdo.com/blog/novedades-en-ecmascript-2025-lo-mejor-del-nuevo-javascript/).
+Hay muchos usuarios con blogs donde analizan y explican con ejemplo la novedades que vienen con cada versión de ESMAScript. Aqui te dejo unas entradas explicando algunas de la cosas que aprenderás a utilizar durante este curso. [Articulo 1](https://www.campusmvp.es/recursos/post/ecmascript-2025-todas-las-novedades-y-aplicaciones-practicas-para-impulsar-tu-codigo-javascript.aspx?srsltid=AfmBOopmwGGyMpIFgFa48-H8AJdk8k6h2K1lswkUKkaIZiX08r_1a6BM) y [Articulo 2](https://www.itdo.com/blog/novedades-en-ecmascript-2025-lo-mejor-del-nuevo-javascript/).
 
 Este tipo de articulos los suelen publicar expertos/influencer/programadores cada vez que sale una versión nueva.
 
@@ -181,13 +181,13 @@ Hay otros grandes editores en el mundo de la programación. Por favor, elige el 
 
 El código es propenso a errores. Es muy probable que cometas errores... ¿de qué estoy hablando? Es *absolutamente* seguro que vas a cometer errores, al menos si eres un humano, no un robot (o ChatGPT que suele fallar a menudo).
 
-Pero en el navegador, los usuarios no ven errores por defecto. Entonces, si algo sale mal en el guión, no veremos qué está roto y no podremos arreglarlo. Para ver errores y obtener mucha otra información útil sobre scripts, se han incorporado "herramientas de desarrollo" en los navegadores.
+Pero en el navegador, los usuarios no ven errores por defecto. Entonces, si algo sale mal en el guión, no verás qué está roto y no podrás arreglarlo. Para ver errores y obtener mucha otra información útil sobre scripts, se han incorporado "herramientas de desarrollo" en los navegadores.
 
 La mayoría de los desarrolladores se inclinan por Chrome o Firefox para el desarrollo porque esos navegadores tienen las mejores herramientas para desarrolladores. Otros navegadores también ofrecen herramientas para desarrolladores, a veces con características especiales, pero por lo general se están poniendo al día con Chrome o Firefox. Por lo tanto, la mayoría de los desarrolladores tienen un navegador "favorito" y cambian a otros si el problema es específico del navegador.
 
-Las herramientas de desarrollo son potentes y tienen muchas características. Para comenzar, aprenderemos a cómo abrirlos, buscar errores y ejecutar comandos de JavaScript.
+Las herramientas de desarrollo son potentes y tienen muchas características. Para comenzar, aprenderás a abrirlas, buscar errores y ejecutar comandos de JavaScript.
 
-Para ello utilizaremos esta [pagina](https://javascript.info/article/devtools/bug.html).
+Para ello utilizarás esta [pagina](https://javascript.info/article/devtools/bug.html).
 
 ### Google Chrome
 

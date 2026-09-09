@@ -242,7 +242,7 @@ typeof alert // "function"  (3)
 Las últimas tres líneas pueden necesitar una explicación adicional:
 *  `Math` es un objeto integrado que proporciona operaciones matemáticas. Aquí, sirve sólo como ejemplo de un objeto.
 *  El resultado de `typeof null` es `object`. Se trata de un error oficialmente reconocido en typeof, que proviene de los primeros días de JavaScript y se mantiene por motivos de compatibilidad. Definitivamente, null no es un objeto. Es un valor especial con un tipo propio.
-*  El resultado de `typeof alert` es `functión`, porque la `alert` es una función. Estudiaremos funciones en los próximos capítulos donde también veremos que no existe un tipo de "función" especial en JavaScript. Las funciones pertenecen al tipo de objeto. Pero typeof los trata de manera diferente y devuelve "función". Esto también proviene de los primeros días de JavaScript.
+*  El resultado de `typeof alert` es `functión`, porque la `alert` es una función. Estudiarás funciones en los próximos capítulos donde también verás que no existe un tipo de "función" especial en JavaScript. Las funciones pertenecen al tipo de objeto. Pero typeof los trata de manera diferente y devuelve "función". Esto también proviene de los primeros días de JavaScript.
 
 > ### *Intentalo tu mismo...*
 > Cual es la salida que producirá este script en la consola?

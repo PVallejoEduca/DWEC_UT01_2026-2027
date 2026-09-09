@@ -58,7 +58,7 @@ console.log(num+5); // 10
 ```
 
 > ### *Tener en cuenta que ...*
-> ... existen otra maneras diferentes de "loggear" lo que queremos y se muestre de manera diferente en función de lo que ocurra en el script. De momento nosotros utilizaremos `console.log()`, pero podeis investigar sobre los otros metodos que se pueden utilizar, [enlace.](https://medium.com/theleanprogrammer/javascript-explore-different-types-of-console-methods-73c09e526d58) 
+> ... existen otra maneras diferentes de "loggear" lo que queremos y se muestre de manera diferente en función de lo que ocurra en el script. De momento utilizarás `console.log()`, pero puedes investigar sobre los otros metodos que se pueden utilizar, [enlace.](https://medium.com/theleanprogrammer/javascript-explore-different-types-of-console-methods-73c09e526d58) 
 
 ## Conversión de datos
 
@@ -128,7 +128,7 @@ alert( Number(false) );       // 0
 
 ### Conversion boleana
 
-La conversion booleana es muy simple. Se hace de manera lógica (veremos las operaciones lógicas mas adelante), y podemos utiliza la manera explicita con `Boolean(valor)`.
+La conversion booleana es muy simple. Se hace de manera lógica (verás las operaciones lógicas mas adelante), y podemos utiliza la manera explicita con `Boolean(valor)`.
 
 Reglas:
 * Los valores que intuitivamente están "vacíos", como `0`, una cadena vacía, `null`, `undefined` y `NaN`, se vuelven `false`.
